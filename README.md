@@ -1,0 +1,1 @@
+# go-bigquery-schema-sample
